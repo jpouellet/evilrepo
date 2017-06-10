@@ -1,6 +1,6 @@
 # evilrepo
 
-A "totally-not-malicious" repo. Definitely won't try to steal your keys. Definitely. ;)
+A "totally-not-malicious" repo. Some dependency or something. You totally audit all the millions of lines of code of random things you build, right? ;)
 
 ## To build:
 
